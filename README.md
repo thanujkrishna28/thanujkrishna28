@@ -129,7 +129,7 @@ A **full-stack event planning system** designed to simplify and automate event o
 * 🔄 Transitioning from academic projects → production systems
 
 ---
-
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
 ## 💡 Career Objective
 
 To secure a **Software Engineering role** where I can contribute to building scalable systems, apply problem-solving skills, and continuously grow in modern technologies.
