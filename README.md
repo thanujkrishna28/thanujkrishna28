@@ -19,7 +19,7 @@ Currently developing **production-level projects** like event management platfor
 Strong foundation in **Data Structures, Algorithms, and System Design fundamentals**, with hands-on experience in full-stack development.
 
 ---
-
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 ## 🚀 Featured Project
 
 ### 🎯 GatherGO – Smart Event Management Platform
