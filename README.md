@@ -47,6 +47,7 @@ A **full-stack event planning system** designed to simplify and automate event o
 * Structured like a **production-grade SaaS platform**
 
 ---
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
 
 ## 🛠️ Technical Skills
 
