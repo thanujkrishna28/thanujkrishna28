@@ -1,94 +1,85 @@
-<h1 align="center">Hi 👋, I'm Thanuj Krishna</h1>
-<h3 align="center">🚀 Full Stack Developer | AI-Driven Systems Builder | B.Tech CSE</h3>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
+<h1 align="center">
+  Hi 👋, I'm Thanuj Krishna 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<h3 align="center">🚀 Full Stack Developer | AI Systems Builder | B.Tech CSE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Building+Real-Time+Systems;AI+Driven+Applications;Future+Software+Engineer&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Driven+Applications;Building+Real+World+Projects;Future+Software+Engineer&center=true&width=550&height=45">
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="80%">
+</p>
+
+---
+
+## 🧑‍💻 About Me
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🧑‍💻 Professional Summary
-
-Motivated Computer Science student specializing in building **real-time, scalable web applications** with a focus on **user experience and system performance**.
-
-Currently developing **production-level projects** like event management platforms and exploring **AI-driven personalization systems**.
-
-Strong foundation in **Data Structures, Algorithms, and System Design fundamentals**, with hands-on experience in full-stack development.
+* 🎓 B.Tech Computer Science Student
+* 💡 Passionate about **Full Stack Development & AI**
+* 🔥 Building **real-time scalable applications**
+* 🧠 Strong in **DSA, OS, DBMS fundamentals**
+* ☁️ Exploring **Cloud & System Design**
+* 📍 India
 
 ---
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+
 ## 🚀 Featured Project
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+</p>
 
 ### 🎯 GatherGO – Smart Event Management Platform
 
-A **full-stack event planning system** designed to simplify and automate event organization.
+A **production-level full-stack system** designed for modern event planning.
 
-🔹 Key Features:
+### 🔹 Key Features
 
 * Venue discovery with pricing insights
-* Wedding & event package management
-* User authentication system (login/signup)
-* Multi-page structured frontend (modular architecture)
-* Real-time user interaction design
+* Wedding & event package system
+* Authentication (Login / Signup)
+* Modular multi-page frontend
+* Real-time interaction UI
 
-🔹 Tech Stack:
+### 🔹 Tech Stack
 
-* Frontend: HTML, CSS, JavaScript, Tailwind CSS
-* Backend (Planned/Integrating): Flask / Django
-* Future Scope: AI-based event recommendations
+* HTML, CSS, JavaScript, Tailwind CSS
+* Backend: Flask / Django (in progress)
+* Future: AI-based recommendations
 
-🔹 What Makes It Unique:
+### 🔹 Highlights
 
-* Focus on **real-world usability**
-* Designed for **scalability and business use**
-* Structured like a **production-grade SaaS platform**
-
----
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
-
-## 🛠️ Technical Skills
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721268.png" width="80">
-### 💻 Programming Languages
-
-* Python
-* Java
-* C++
-* JavaScript
-
-### 🌐 Web Development
-
-* HTML5, CSS3, Tailwind CSS
-* React.js (Learning & Applying)
-* Node.js (Basics)
-
-### ⚙️ Core Concepts
-
-* Data Structures & Algorithms
-* Operating Systems
-* Database Management Systems
-* Computer Networks
-
-### ☁️ Tools & Technologies
-
-* Git & GitHub
-* MongoDB
-* AWS (Fundamentals)
+* Designed like a **real SaaS product**
+* Focused on **scalability & usability**
+* Real-world business use case
 
 ---
 
-## 📊 GitHub Insights
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thanujkrishna28&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanujkrishna28&layout=compact&theme=tokyonight" height="180em"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mongodb,html,css,tailwind,aws,git" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thanujkrishna28&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanujkrishna28&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=thanujkrishna28&theme=tokyonight" />
@@ -98,58 +89,62 @@ A **full-stack event planning system** designed to simplify and automate event o
 
 ## 🧠 Current Focus
 
-* 🚀 Building **end-to-end full stack applications**
-* 🤖 Integrating **AI into real-world systems**
-* ☁️ Learning **cloud deployment & scalability**
-* 📈 Strengthening **DSA for placements**
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
+
+* 🚀 Full Stack Development
+* 🤖 AI Integration in real-world apps
+* ☁️ Cloud Deployment
+* 📈 DSA for placements
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center">
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="mailto:yourmail@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 <a href="https://github.com/thanujkrishna28">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
 ---
 
-## 🏆 Achievements & Growth
+## 🏆 Achievements
 
-* 🚀 Developed real-world full-stack project (GatherGO)
-* 📚 Actively learning advanced system design concepts
-* 💻 Consistent improvement in coding & development
-* 🔄 Transitioning from academic projects → production systems
+* 🚀 Built real-world full stack project (GatherGO)
+* 📚 Learning advanced system design
+* 💻 Continuous coding & development growth
+* 🔄 Transitioning to production-level systems
 
 ---
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
+
 ## 💡 Career Objective
 
-To secure a **Software Engineering role** where I can contribute to building scalable systems, apply problem-solving skills, and continuously grow in modern technologies.
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250">
+
+To become a **Software Engineer** building scalable, impactful systems and solving real-world problems using modern technologies.
 
 ---
 
 ## ⚡ Developer Mindset
 
-* ✔ Focus on **clean and maintainable code**
-* ✔ Build with **real-world impact in mind**
-* ✔ Always learning and adapting to new technologies
+* ✔ Clean & maintainable code
+* ✔ Real-world problem solving
+* ✔ Continuous learning
 
 ---
 
 ## 💬 Quote
 
-> “Code is not just about solving problems, it's about building solutions that scale.”
+> “First, solve the problem. Then, write the code.”
 
 ---
 
 <p align="center">
-  ⭐️ Building, Learning, and Growing Every Day
+  ⭐️ Building • Learning • Growing Every Day
 </p>
