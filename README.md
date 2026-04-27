@@ -8,6 +8,8 @@
 
 ---
 
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 🧑‍💻 Professional Summary
 
 Motivated Computer Science student specializing in building **real-time, scalable web applications** with a focus on **user experience and system performance**.
